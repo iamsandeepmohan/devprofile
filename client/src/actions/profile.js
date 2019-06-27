@@ -8,7 +8,6 @@ import {
   UPDATE_PROFILE,
   CLEAR_PROFILE,
   ACCOUNT_DELETED,
-  GET_REPOS,
   LOGOUT
 } from './types';
 
